@@ -70,7 +70,7 @@ class App extends React.Component {
       <div className= {this.state.taskLogin ? "auth-wrapper":"auth-wrapper-task pt-5 "}>
         <div className={this.state.taskLogin ? "auth-inner" : "auth-inner-task-multi row row-cols-4"} >
         <Switch>
-            <Route exact path='/'   render={props => <Login userLogin = {this.userLogin}/>} />
+            <Route exact path='/chupil-TestProjNerd'   render={props => <Login userLogin = {this.userLogin}/>} />
             <Route history={history}  path="/sign-in" render={props => <Login userLogin = {this.userLogin}/> }/>
             <Route history={history}  path="/sign-up" render ={()=><SignUp />} />            
             <Route history={history}  path="/task" render ={()=><Task user = {this.state.user}/>} />
