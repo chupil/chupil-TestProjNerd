@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chupil-TestProjNerd/precache-manifest.5fb43da4ff84494d16272a23b9cea891.js"
+  "/chupil-TestProjNerd/precache-manifest.d2819fcd95f6d8dff99bc2880442e001.js"
 );
 
 self.addEventListener('message', (event) => {

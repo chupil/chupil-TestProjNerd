@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chupil-TestProjNerd/static/css/main.94460024.chunk.css",
-    "main.js": "/chupil-TestProjNerd/static/js/main.373a142d.chunk.js",
-    "main.js.map": "/chupil-TestProjNerd/static/js/main.373a142d.chunk.js.map",
+    "main.js": "/chupil-TestProjNerd/static/js/main.f13095cb.chunk.js",
+    "main.js.map": "/chupil-TestProjNerd/static/js/main.f13095cb.chunk.js.map",
     "runtime-main.js": "/chupil-TestProjNerd/static/js/runtime-main.583dac6c.js",
     "runtime-main.js.map": "/chupil-TestProjNerd/static/js/runtime-main.583dac6c.js.map",
     "static/css/2.f93178fb.chunk.css": "/chupil-TestProjNerd/static/css/2.f93178fb.chunk.css",
     "static/js/2.64505230.chunk.js": "/chupil-TestProjNerd/static/js/2.64505230.chunk.js",
     "static/js/2.64505230.chunk.js.map": "/chupil-TestProjNerd/static/js/2.64505230.chunk.js.map",
     "index.html": "/chupil-TestProjNerd/index.html",
-    "precache-manifest.5fb43da4ff84494d16272a23b9cea891.js": "/chupil-TestProjNerd/precache-manifest.5fb43da4ff84494d16272a23b9cea891.js",
+    "precache-manifest.d2819fcd95f6d8dff99bc2880442e001.js": "/chupil-TestProjNerd/precache-manifest.d2819fcd95f6d8dff99bc2880442e001.js",
     "service-worker.js": "/chupil-TestProjNerd/service-worker.js",
     "static/css/2.f93178fb.chunk.css.map": "/chupil-TestProjNerd/static/css/2.f93178fb.chunk.css.map",
     "static/css/main.94460024.chunk.css.map": "/chupil-TestProjNerd/static/css/main.94460024.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f93178fb.chunk.css",
     "static/js/2.64505230.chunk.js",
     "static/css/main.94460024.chunk.css",
-    "static/js/main.373a142d.chunk.js"
+    "static/js/main.f13095cb.chunk.js"
   ]
 }
